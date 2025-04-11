@@ -1,7 +1,7 @@
 # NovelAI Image Fullscreen Overlay
 
 NovelAI QOL Mods is a Chrome extension designed to enhance your NovelAI Diffusion experience with a small quality-of-life improvement: Fullscreen Image Viewer.
-Also works nice with mobile browsers that support .crx extension.(Tested on kiwi, Quetta, Meses browser)
+Also works nice with mobile browsers that support .crx extension.(Tested on kiwi, Quetta, Mises browser)
 
 ## Feature
 
@@ -41,7 +41,7 @@ Chromeのアドレスバーに、chrome://extensionsと入力し、拡張機能�
 
 ### Android
 [Download the crx](https://github.com/david419kr/novelai-diffusion-qol/releases/download/1.0/nai_QOL.crx).  
-On supported browsers, install downloaded crx file and turn it on.(Tested on Kiwi, Quetta, Meses browser)  
+On supported browsers, install downloaded crx file and turn it on.(Tested on Kiwi, Quetta, Mises browser)  
 
 [crxをDL](https://github.com/david419kr/novelai-diffusion-qol/releases/download/1.0/nai_QOL.crx)します。  
-Chrome拡張機能を使えるモバイルブラウザーで、上記のcrxファイルをインストールし、ONにしてください。(Kiwi, Quetta, Meses browserでテスト済み)
+Chrome拡張機能を使えるモバイルブラウザーで、上記のcrxファイルをインストールし、ONにしてください。(Kiwi, Quetta, Mises browserでテスト済み)
