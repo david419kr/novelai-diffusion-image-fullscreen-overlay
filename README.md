@@ -49,4 +49,4 @@ Chromeのアドレスバーに、chrome://extensionsと入力し、拡張機能�
 On supported browsers, install downloaded crx file and turn it on.(Tested on Kiwi, Quetta, Meses browser)  
 
 [crxをDL](https://github.com/david419kr/novelai-diffusion-qol/releases/download/1.0/nai_QOL.crx)します。  
-Chrome拡張機能を使えるモバイルブラウザーで、ONにしてください。(Kiwi, Quetta, Meses browserでテスト済み)
+Chrome拡張機能を使えるモバイルブラウザーで、上記のcrxファイルをインストールし、ONにしてください。(Kiwi, Quetta, Meses browserでテスト済み)
