@@ -1,0 +1,25 @@
+.nai-fullscreen-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.9);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 9999;
+    cursor: pointer;
+    overflow: hidden;
+  }
+  
+  .nai-fullscreen-image {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    object-fit: contain;
+  }
+  
