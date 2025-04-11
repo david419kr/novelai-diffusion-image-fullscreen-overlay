@@ -1,13 +1,9 @@
-# NovelAI QOL Mods
+# NovelAI Image Fullscreen Overlay
 
-NovelAI QOL Mods is a Chrome extension designed to enhance your NovelAI Diffusion experience with two major quality-of-life improvements: Infinite Generation and a Fullscreen Image Viewer.
+NovelAI QOL Mods is a Chrome extension designed to enhance your NovelAI Diffusion experience with a small quality-of-life improvement: Fullscreen Image Viewer.
 Also works nice with mobile browsers that support .crx extension.(Tested on kiwi, Quetta, Meses browser)
 
-## Features
-
-### Infinite Generation
-- **Automated Generation:** Continuously triggers the image generation.
-- **Toggle Control:** Switch infinite generation mode on or off with the dedicated "∞ Gen" button.
+## Feature
 
 ### Fullscreen Image Viewer
 - **Clickable Images:** Launch a fullscreen overlay by clicking on image.
@@ -17,10 +13,9 @@ Also works nice with mobile browsers that support .crx extension.(Tested on kiwi
   - Open a settings panel to customize the position of control buttons.
 
 ### Screenshots
-![ss1](https://github.com/user-attachments/assets/3cdcb74f-1e06-48ea-9ae4-178e5b7e0080)
-![ss2](https://github.com/user-attachments/assets/2dc7483d-1d2a-4cd2-be8e-bdf26a0619ff)
-![ss3](https://github.com/user-attachments/assets/9b3253dc-0159-4c36-89bf-72fb94cf1c0b)
-
+![ss1](https://github.com/user-attachments/assets/3cf2e561-b55a-4f7c-a468-df9b5fdc33aa)
+![ss2](https://github.com/user-attachments/assets/d28f24c5-2517-4d65-9294-c3fd4eb33301)
+![ss3](https://github.com/user-attachments/assets/88400e0c-5f67-4d86-b895-a093783e7ea7)
 
 ## How to install
 
