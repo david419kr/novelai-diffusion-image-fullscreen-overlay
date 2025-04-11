@@ -5,13 +5,9 @@
     "description": "Adds some QOL mods to NovelAI Diffusion. Infinite Generation, Fullscreen Image viewer.",
     "content_scripts": [{
       "matches": ["*://*.novelai.net/*"],
-      "js": ["bridge.js", "imgFSoverlay.js", "fullscreenBtn.js"],
+      "js": ["imgFSoverlay.js", "fullscreenBtn.js"],
       "css": ["style.css"],
       "run_at": "document_idle"
-    }],
-    "web_accessible_resources": [{
-      "resources": ["injector.js"],
-      "matches": ["<all_urls>"]
     }],
     "permissions": [
       "activeTab"
